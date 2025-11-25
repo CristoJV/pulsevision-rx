@@ -1,11 +1,11 @@
 {
   "recommendations": [
-    "charliermarsh.ruff",          // Ruff (linter y fix)
-    "ms-python.black-formatter",   // Black (formatter)
-    "ms-python.isort",             // isort (orden de imports)
-    "ms-python.python",            // Python extension
-    "ms-python.vscode-pylance",    // IntelliSense
-    "ms-python.pylint",            // pylint
-    "ms-python.debugpy"            // Debugger
+    "charliermarsh.ruff",
+    "ms-python.black-formatter",
+    "ms-python.isort",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-python.pylint",
+    "ms-python.debugpy"
   ]
 }
